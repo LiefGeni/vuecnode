@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .DS_Store
 node_modules
 /dist
@@ -19,3 +20,7 @@ yarn-error.log*
 *.njsproj
 *.sln
 *.sw*
+=======
+.sass-cache/
+*.css.map
+>>>>>>> e8f697ff0c3cb696055d94f545890ee90ec9d637
