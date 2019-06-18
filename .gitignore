@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 .DS_Store
 node_modules
 dist
@@ -24,3 +25,7 @@ yarn-error.log*
 .sass-cache/
 *.css.map
 >>>>>>> e8f697ff0c3cb696055d94f545890ee90ec9d637
+=======
+.sass-cache/
+*.css.map
+>>>>>>> 88f7715a72336bce8c3bc65ca8f6d0d7f4226514
